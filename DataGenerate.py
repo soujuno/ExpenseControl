@@ -21,7 +21,7 @@ Expenses = [
     ('iFood', 30, 80), ('GAS', 50, 140), ('Amazon', 25, 125), ('Growth', 135, 670),
     ('Pharm', 55, 123), ('Bakery', 11, 37), ('PetShop', 50, 100), ('After', 25, 125),
     ('Market', 250, 550), ('iFood', 30, 80), ('TwitchSubs', 35, 75), ('Net', 25, 125),
-    ('Amazon', 25, 125),
+    ('HouseServices', 80, 200),
 ]
 
 ## Lista de fixos = Netflix, gym, spotify, appletv, claude, ytpremium
