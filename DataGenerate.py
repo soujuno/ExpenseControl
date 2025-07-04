@@ -18,10 +18,15 @@ Lines = 200
 
 
 Expenses = [
-    ('iFood', 30, 80), ('GAS', 50, 140), ('Amazon', 25, 125),
-    ('Pharm', 55, 123), ('Bakery', 11, 37), ('Gym', 100, 100),
-    ('Market', 250, 550), ('iFood', 30, 80), ('Netflix', 50, 50)
+    ('iFood', 30, 80), ('GAS', 50, 140), ('Amazon', 25, 125), ('Growth', 135, 670),
+    ('Pharm', 55, 123), ('Bakery', 11, 37), ('PetShop', 50, 100), ('After', 25, 125),
+    ('Market', 250, 550), ('iFood', 30, 80), ('TwitchSubs', 35, 75), ('Net', 25, 125),
+    ('Amazon', 25, 125),
 ]
+
+## Lista de fixos = Netflix, gym, spotify, appletv, claude, ytpremium
+Subscriptions = [('Netflix')]
+
 Payment = ['DEBIT', 'CREDIT', 'PIX']
 
 #                       ------- Principal -------
