@@ -26,6 +26,3 @@ def load_expenses(archive_csv='DataBase.csv'):
 
 if __name__ == "__main__":
     load_expenses()
-
-            
-
