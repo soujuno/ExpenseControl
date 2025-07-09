@@ -1,12 +1,3 @@
-# Um gerador aleatório de dados de despesas
-# Quais dados? Data(aaaa-mm-dd)  
-#              Descricao(ifood, gasolina,amazon, farmacia, suplementos, academia, mercado, padaria, netflix, spotify...)
-#              valor(24.9, 30.00, 200.00, 19.9, 50.00, 123.00, 17.60, 83.50, 42.00, 55.50) 
-#              transacao(pix,debito,credito)
-#              receita(pix recebido do joao, salário, venda olx cadeira )
-# Volumes de dados? Aproximadamente 200
-# Período analisado? 06 meses
-
 import csv      
 import random   
 from datetime import datetime    
@@ -22,7 +13,7 @@ Year = 2026
 EXPENSES = [
     ('iFood', 30, 80), ('GAS', 50, 140), ('Amazon', 25, 125), ('Growth', 135, 670),
     ('Pharm', 55, 123), ('Bakery', 11, 37), ('PetShop', 50, 100), ('After', 25, 125),
-    ('Market', 250, 550), ('iFood', 30, 80), ('TwitchSubs', 35, 75), ('Net', 25, 125),
+    ('Market', 250, 550), ('Bar', 30, 80), ('TwitchSubs', 35, 75), ('Net', 25, 125),
     ('HouseServices', 80, 200),
 ]
 
